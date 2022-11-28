@@ -1,0 +1,2 @@
+class ChestsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class StomachesController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class LegsController < ApplicationController
+end

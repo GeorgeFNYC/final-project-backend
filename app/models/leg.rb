@@ -1,0 +1,2 @@
+class Leg < ApplicationRecord
+end

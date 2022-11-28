@@ -1,0 +1,2 @@
+class ArmsController < ApplicationController
+end
